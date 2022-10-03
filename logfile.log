@@ -4,3 +4,5 @@
 {"level":"info","message":"Connected to the mongodb://localhost/vidly_tests...","timestamp":"2022-10-03T10:08:20.879Z"}
 {"level":"info","message":"Listening on port 5000...😊","timestamp":"2022-10-03T10:08:23.189Z"}
 {"level":"info","message":"Connected to the mongodb://localhost/vidly_tests...","timestamp":"2022-10-03T10:08:23.292Z"}
+{"level":"info","message":"Listening on port 5000...😊","timestamp":"2022-10-03T10:15:04.140Z"}
+{"level":"info","message":"Connected to the mongodb://localhost/vidly...","timestamp":"2022-10-03T10:15:04.199Z"}
